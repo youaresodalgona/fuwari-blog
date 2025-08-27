@@ -1,5 +1,5 @@
 import Key from "../i18nKey";
-import type { Translation } from "../translation";
+import type {Translation} from "../translation";
 
 export const ko: Translation = {
     [Key.home]: "Home",

@@ -4,7 +4,7 @@ description: Laravel에서 Validation 처리를 어떻게 하면 좋을까?
 published: 2025-05-21
 tags: [laravel, php, validation]
 category: PHP
-draft: true
+
 ---
 
 이전에 작성한 [Laravel HTTP Request를 DTO로 만들기](/laravel-http-request를-dto로-만들기)를 먼저 참고해 주세요.

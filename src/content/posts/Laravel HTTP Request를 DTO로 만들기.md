@@ -4,7 +4,7 @@ description: Laravel에서 DTO 사용하기
 published: 2025-05-20
 tags: [DTO, laravel, php]
 category: PHP
-draft: true
+
 ---
 
 ## DTO를 왜 만드는가?
