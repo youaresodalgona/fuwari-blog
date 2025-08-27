@@ -1,9 +1,7 @@
 [build]
+  install.command = "pnpm install"
   command = "pnpm build"
   publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
-
-[build]
-  install.command = "pnpm install"
